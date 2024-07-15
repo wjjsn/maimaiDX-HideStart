@@ -1,0 +1,1 @@
+启动maimaiDX的时候只保留Sinmai.exe窗口
